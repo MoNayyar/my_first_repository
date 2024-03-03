@@ -1,4 +1,4 @@
 # my_first_repository
-This is my first repository
+This is my first git repository
 <br>
 Adding new line
